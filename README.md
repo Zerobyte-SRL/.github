@@ -1,2 +1,2 @@
 # .github
-Repository Zerobyte SRL
+Repository Pubblica Zerobyte SRL
